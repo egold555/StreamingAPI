@@ -1,6 +1,6 @@
 # StreamingAPI
 
-This is a **WIP** project. **It is not fully ready for people to use yet!** Use at your own risk.
+This is a **WIP** project. **It is not fully ready for people to use yet!** Use at your own risk. The basic idea behind this API is to get information about different services, and have functions in java be able to be called when somebody donates to you, or says something in chat etc.
 
 ## Supported Serives:
   * StreamLabs (Twitch Donations)
