@@ -54,3 +54,5 @@ local.properties
 .scala_dependencies
 .worksheet
 src/org/golde/streamingapi/test/PRIVATE_VARIABLES\.java
+
+ExampleFormats - StreamLabs\.txt
