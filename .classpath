@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="C:/Users/Eric/workspace/EricsStreamLabAPI/libs/okhttp-3.8.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Eric/workspace/EricsStreamLabAPI/libs/okio-1.13.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Eric/workspace/EricsStreamLabAPI/libs/socket.io-client-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eric/workspace/EricsStreamLabAPI/libs/lombok.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
